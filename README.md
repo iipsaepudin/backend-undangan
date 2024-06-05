@@ -93,7 +93,7 @@ https://www.postman.com/dewanakl/workspace/undangan/collection/20716209-a29ef362
 - Clone or download this repository
 
     ```bash
-    git clone https://github.com/dewanakl/undangan-api.git
+    git clone https://github.com/daysproject/undangan-api.git
     ```
 
 - Install package
@@ -167,7 +167,7 @@ I'm very open to those of you who want to contribute to Kamu framework!
 
 ## Security Vulnerabilities
 
-If you find a security vulnerability in this Kamu, please email DKL via [dewanakretarta29@gmail.com](mailto:dewanakretarta29@gmail.com).
+If you find a security vulnerability in this Kamu, please email DKL via [shantree.anonyzer01@gmail.com](mailto:shantree.anonyzer01@gmail.com).
 
 ## License
 
