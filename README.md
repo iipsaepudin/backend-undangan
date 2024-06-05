@@ -1,4 +1,4 @@
-<p align="center"><img src="https://daysproject.myfutureis.tech/assets/img/favicon.png" width="200" alt="Daysproject"></p>
+<p align="center"><img src="https://daysproject.myfutureis.tech/assets/img/favicon.png" width="400" alt="Daysproject"></p>
 
 <p align="center">
 <a href="https://php.net"><img src="https://img.shields.io/packagist/dependency-v/kamu/framework/php.svg" alt="PHP Programming Language"></a>
